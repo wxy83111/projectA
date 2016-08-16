@@ -4,3 +4,4 @@ for i in range(1,10):
         #end=''的作用是单次打印后不换行
     print()
     #底部迭代完成一次后换行
+print('I am learning Git')
